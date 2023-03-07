@@ -1,0 +1,48 @@
+﻿  Admin.cpp
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(232): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(251): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(270): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(320): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(374): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(426): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(485): warning C4101: 'index': unreferenced local variable
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(537): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(547): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(554): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(563): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(573): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(580): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(589): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(599): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(606): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(615): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(625): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(632): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(717): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(793): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(796): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(836): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(845): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\admin.cpp(854): warning C4018: '<': signed/unsigned mismatch
+  Blood Bank System.cpp
+d:\blood bank system\blood bank system\blood bank system\blood bank system.cpp(93): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\blood bank system.cpp(104): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\blood bank system.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  Donor.cpp
+  Files.cpp
+d:\blood bank system\blood bank system\blood bank system\files.cpp(23): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\files.cpp(33): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\files.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\files.cpp(56): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\files.cpp(67): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\files.cpp(78): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\files.cpp(89): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\files.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  Recipient.cpp
+d:\blood bank system\blood bank system\blood bank system\recipient.cpp(267): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\recipient.cpp(277): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\recipient.cpp(287): warning C4018: '<': signed/unsigned mismatch
+d:\blood bank system\blood bank system\blood bank system\recipient.cpp(297): warning C4018: '<': signed/unsigned mismatch
+  User.cpp
+  Generating Code...
+  Blood Bank System.vcxproj -> D:\Blood Bank System\Blood Bank System\Debug\Blood Bank System.exe
